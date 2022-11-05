@@ -32,4 +32,15 @@ $ vagrant -v
 Vagrant 2.2.19
 
 Ansible
+vagrant@vagrant:~$ ansible --version
+ansible [core 2.13.5]
+  config file = None
+  configured module search path = ['/home/vagrant/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
+  ansible python module location = /home/vagrant/.local/lib/python3.8/site-packages/ansible
+  ansible collection location = /home/vagrant/.ansible/collections:/usr/share/ansible/collections
+  executable location = /usr/local/bin/ansible
+  python version = 3.8.10 (default, Jun 22 2022, 20:18:18) [GCC 9.4.0]
+  jinja version = 3.1.2
+  libyaml = True
+
 
